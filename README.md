@@ -1,4 +1,4 @@
-## Bob ross quotes analysis and nlp
+## Bob Ross quotes analysis and NLP
 
 ---
 
