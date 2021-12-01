@@ -1,5 +1,4 @@
-## Bob Ross quotes analysis and NLP
-
+<img src='images/quotesanalysis.gif' width=900>
 ---
 
 ### Database
