@@ -1,4 +1,5 @@
 <img src='images/quotesanalysis.gif' width=900>
+
 ---
 
 ### Database
